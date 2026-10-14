@@ -1,0 +1,6 @@
+{
+  "name": "debooger2000",
+  "description": "Project viewer and debugger for web applications, ZIP archives, HTML, and React source projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
